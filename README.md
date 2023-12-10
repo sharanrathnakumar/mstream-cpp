@@ -1,5 +1,5 @@
 Project: Distributed Media Streaming Server in C++
-
+--------------------------------------------------
 This project involves building a distributed media streaming server in C++ that leverages IPC, multi-threading, multimedia, and networking concepts. 
 
 Concept:
